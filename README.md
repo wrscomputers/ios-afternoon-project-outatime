@@ -15,6 +15,8 @@ Time is a factor here. 😉 We've only got 24 hours until lightning is due to st
 * Know how to use a timer to execute code after a specified interval.
 * Be able to present an alert controller to show relevant messages to the user.
 
+### At the bottom of this README, there are some screenshots to illustrate how the finished app should look more or less.
+
 ## Required Features
 
 ### Project Setup
