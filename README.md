@@ -25,6 +25,8 @@ Time is a factor here. 😉 We've only got 24 hours until lightning is due to st
 
 ### Storyboard Tasks
 * Drag two view controller objects into your storyboard canvas and set their custom classes to match the two classes you just created above.
+
+
 * In the time circuits view, create a UI that matches the screenshot below (recommend you use a vertical stack view to make the subviews align nicely).
 	* Drag the `digital-7.ttf` file from this repo into your project so you can use it. Once added, the font should be available from any font picker in the storyboard.
 	* Feel free to experiment a bit with the UI's look. Take inspiration from the [original time circuits](http://www.int33h.com/test/tc/img/tc.jpg) used in the movie, but play around with colors and arrangments to make it your own.
